@@ -1,0 +1,56 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.*.local
+
+# VS Code settings
+.vscode/
+.history/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+out/
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Coverage directory
+coverage/
+
+# TypeScript
+*.tsbuildinfo
+
+# IDEs
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Optional: ignore SQLite/DBs
+*.sqlite
+*.sqlite3
+*.db
+*.db3
+
+# Optional: ignore compiled files
+*.exe
+*.out
+*.class
+*.o
+*.so
